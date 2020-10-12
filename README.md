@@ -1,2 +1,2 @@
 # Basic-Python
- Variables, Operations and basic commands on Python
+ Variables, Operations And Basic Commands On Python
